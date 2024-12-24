@@ -2,7 +2,7 @@
 
 
 ## tutorials
-1. Building a Chatbot for Enhanced Wikipedia Search : Upstage and Weaviate
+1. [Building a Chatbot for Enhanced Wikipedia Search : Upstage and Weaviate](https://github.com/duper203/upstage_cookbook/blob/main/wiki_tutorial_upstage_weaviate.ipynb)
 
    https://x.com/soo_devrel/status/1831025240488722623
 
@@ -31,7 +31,7 @@
    https://x.com/soo_devrel/status/1868745008423354738
    
 10. [n8n&upstage] Transform your draft contracts into polished, legally sound agreements automatically
-
-  https://x.com/soo_devrel/status/1871358886940426670
+   
+    https://x.com/soo_devrel/status/1871358886940426670
 
 11. Financial Analysis
