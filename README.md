@@ -12,9 +12,13 @@
 
 3. How to use DocParse series #1, #2
 
-   ✍🏻 [Upstage DocParse #1](https://medium.com/@hsookim203/experimenting-upstage-docparse-with-langchain-c9f8983088de) How does DocParse Extract Documents with examples
+   ✍🏻 **[Upstage DocParse #1](https://medium.com/@hsookim203/experimenting-upstage-docparse-with-langchain-c9f8983088de) How does DocParse Extract Documents with examples**
 
-   ✍🏻 [Upstage DocParse #2](https://medium.com/@hsookim203/upstage-docparse-2-retrieving-data-from-excel-spreadsheet-with-docparse-05c0093770d5) Retrieving Data from Excel Spreadsheet with DocParse
+   💻 [code](https://github.com/duper203/upstage_cookbook/blob/main/DocParse_1_Bounding_Box.ipynb)
+
+   ✍🏻 **[Upstage DocParse #2](https://medium.com/@hsookim203/upstage-docparse-2-retrieving-data-from-excel-spreadsheet-with-docparse-05c0093770d5) Retrieving Data from Excel Spreadsheet with DocParse**
+
+   💻 [code](https://github.com/duper203/upstage_cookbook/blob/main/DocParse_2_excel.ipynb)
 
 5. How to use DocVistion series #1, #2, #3
 
@@ -24,12 +28,14 @@
 
    ✍🏻 [Upstage DocVision#3](https://medium.com/@hsookim203/upstage-docvision-3-building-a-webpage-from-your-drawing-a51f9683f424) Building a Simple Webpage from your Drawing
 
+   💻 [code](https://github.com/duper203/upstage_cookbook/blob/main/DocVision_3_Generate_webpage.ipynb)
 
-6. Build own real-time Upstage Solar chatbot using Gradio
+
+7. Build own real-time Upstage Solar chatbot using Gradio
 
    📹 [video tutorial](https://x.com/soo_devrel/status/1838731466555167088)
 
-7. Financial advisor : Upstage and Gradio
+8. Financial advisor : Upstage and Gradio
 
    📹 [video tutorial](https://x.com/soo_devrel/status/1840893935146893649)
 
@@ -40,6 +46,8 @@
    📹 [video tutorial](https://x.com/soo_devrel/status/1859772718985642186)
 
    ✍🏻 [tech blog](https://medium.com/@hsookim203/pdf-to-podcast-863a78b840f4)
+
+   💻 [code](https://github.com/duper203/upstage_cookbook/blob/main/PDF_to_Podcast_SolarPro.ipynb)
 
 11. [n8n&upstage] How to use n8n with Upstage & Automate invoice processing into Notion
 
@@ -60,3 +68,5 @@
     ✍🏻 [n8n template]
 
 13. Financial Analysis
+
+   💻 [code](https://github.com/duper203/upstage_cookbook/blob/main/financial_analysis.ipynb)
