@@ -12,11 +12,11 @@
 
 3. How to use DocParse series #1, #2
 
-   ✍🏻 **[Upstage DocParse #1](https://medium.com/@hsookim203/experimenting-upstage-docparse-with-langchain-c9f8983088de) How does DocParse Extract Documents with examples**
+   ✍🏻 [Upstage DocParse #1](https://medium.com/@hsookim203/experimenting-upstage-docparse-with-langchain-c9f8983088de) How does DocParse Extract Documents with examples
 
    💻 [code](https://github.com/duper203/upstage_cookbook/blob/main/DocParse_1_Bounding_Box.ipynb)
 
-   ✍🏻 **[Upstage DocParse #2](https://medium.com/@hsookim203/upstage-docparse-2-retrieving-data-from-excel-spreadsheet-with-docparse-05c0093770d5) Retrieving Data from Excel Spreadsheet with DocParse**
+   ✍🏻 [Upstage DocParse #2](https://medium.com/@hsookim203/upstage-docparse-2-retrieving-data-from-excel-spreadsheet-with-docparse-05c0093770d5) Retrieving Data from Excel Spreadsheet with DocParse
 
    💻 [code](https://github.com/duper203/upstage_cookbook/blob/main/DocParse_2_excel.ipynb)
 
