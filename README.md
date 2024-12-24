@@ -3,7 +3,8 @@
 
 ## tutorials
 1. Building a Chatbot for Enhanced Wikipedia Search : Upstage and Weaviate
-   [code](https://github.com/duper203/upstage_cookbook/blob/main/wiki_tutorial_upstage_weaviate.ipynb)
+
+   💻[code](https://github.com/duper203/upstage_cookbook/blob/main/wiki_tutorial_upstage_weaviate.ipynb)
 
    📹 https://x.com/soo_devrel/status/1831025240488722623
 
