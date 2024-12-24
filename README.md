@@ -6,7 +6,7 @@
 
    💻 [code](https://github.com/duper203/upstage_cookbook/blob/main/wiki_tutorial_upstage_weaviate.ipynb)
 
-   📹 [video turial](https://x.com/soo_devrel/status/1831025240488722623)
+   📹 [video tutorial](https://x.com/soo_devrel/status/1831025240488722623)
 
    ✍🏻 [tech blog](https://medium.com/@hsookim203/building-a-chatbot-for-enhanced-wikipedia-search-with-a-chatbot-7dbb41045a8a)
 
@@ -22,31 +22,41 @@
 
    ✍🏻 [Upstage DocVision#2](https://medium.com/@hsookim203/docvision-2-automating-invoice-data-extraction-invoice-%EF%B8%8F-json-%EF%B8%8F-csv-export-9be1eb8421ae) Automating Invoice Data Extraction: Invoice ➡️ JSON ➡️ CSV Export
 
-   ✍🏻 [Upstage DocVision#3](https://medium.com/@hsookim203/upstage-docvision-3-building-a-webpage-from-your-drawing-a51f9683f424)Building a Simple Webpage from your Drawing
+   ✍🏻 [Upstage DocVision#3](https://medium.com/@hsookim203/upstage-docvision-3-building-a-webpage-from-your-drawing-a51f9683f424) Building a Simple Webpage from your Drawing
 
 
 6. Build own real-time Upstage Solar chatbot using Gradio
 
-   📹 [video turial](https://x.com/soo_devrel/status/1838731466555167088)
+   📹 [video tutorial](https://x.com/soo_devrel/status/1838731466555167088)
 
 7. Financial advisor : Upstage and Gradio
 
-   📹 [video turial](https://x.com/soo_devrel/status/1840893935146893649)
+   📹 [video tutorial](https://x.com/soo_devrel/status/1840893935146893649)
 
-8. Transform complex research papers into captivating podcasts
+   ✍🏻 [tech blog](https://medium.com/@hsookim203/creating-a-financial-advice-app-a028a1cb5cc4)
 
-   📹 [video turial](https://x.com/soo_devrel/status/1859772718985642186)
+9. Transform complex research papers into captivating podcasts
 
-9. [n8n&upstage] How to use n8n with Upstage & Automate invoice processing into Notion
+   📹 [video tutorial](https://x.com/soo_devrel/status/1859772718985642186)
 
-   📹 [video turial](https://x.com/soo_devrel/status/1867005330015785220)
+   ✍🏻 [tech blog](https://medium.com/@hsookim203/pdf-to-podcast-863a78b840f4)
+
+11. [n8n&upstage] How to use n8n with Upstage & Automate invoice processing into Notion
+
+   📹 [video tutorial](https://x.com/soo_devrel/status/1867005330015785220)
+
+   ✍🏻 [n8n template]
    
-10. [n8n&upstage] Automate the process of transforming social media drafts saved in Notion, into polished LinkedIn content—and automatically send personalized emails
+11. [n8n&upstage] Automate the process of transforming social media drafts saved in Notion, into polished LinkedIn content—and automatically send personalized emails
 
-   📹 [video turial](https://x.com/soo_devrel/status/1868745008423354738)
+   📹 [video tutorial](https://x.com/soo_devrel/status/1868745008423354738)
+
+   ✍🏻 [n8n template]
    
 11. [n8n&upstage] Transform your draft contracts into polished, legally sound agreements automatically
    
-    📹 [video turial](https://x.com/soo_devrel/status/1871358886940426670)
+    📹 [video tutorial](https://x.com/soo_devrel/status/1871358886940426670)
 
-12. Financial Analysis
+    ✍🏻 [n8n template]
+
+13. Financial Analysis
