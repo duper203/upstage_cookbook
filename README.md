@@ -56,19 +56,19 @@
 
    📹 [video tutorial](https://x.com/soo_devrel/status/1867005330015785220)
 
-   ✍🏻 [n8n template]
+   ✍🏻 [n8n template](https://drive.google.com/file/d/1xbOZziV8buIIBmqNzcR_rNW40zFswts6/view?usp=drive_link)
    
 8. [n8n&upstage] Automate the process of transforming social media drafts saved in Notion, into polished LinkedIn content—and automatically send personalized emails
 
    📹 [video tutorial](https://x.com/soo_devrel/status/1868745008423354738)
 
-   ✍🏻 [n8n template]
+   ✍🏻 [n8n template](https://drive.google.com/file/d/1kISuJavxeaW8K0s4XLc3blg5CYdcZFX8/view?usp=sharing)
    
 9. [n8n&upstage] Transform your draft contracts into polished, legally sound agreements automatically
    
     📹 [video tutorial](https://x.com/soo_devrel/status/1871358886940426670)
 
-    ✍🏻 [n8n template]
+    ✍🏻 [n8n template](https://drive.google.com/file/d/1vUaMPjINt9p_jg35YCc07rlfhmzNgDQ-/view?usp=sharing)
 
 10. Financial Analysis
 
