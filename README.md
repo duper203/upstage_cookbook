@@ -30,13 +30,13 @@
 
    💻 [code](https://github.com/duper203/upstage_cookbook/blob/main/DocVision_3_Generate_webpage.ipynb)
 
-7. Build own real-time Upstage Solar chatbot using Gradio
+6. Build own real-time Upstage Solar chatbot using Gradio
 
    📹 [video tutorial](https://x.com/soo_devrel/status/1838731466555167088)
 
    💻 [code](https://github.com/UpstageAI/cookbook/blob/main/Solar-Fullstack-LLM-101/81_gradio_stream.ipynb)
 
-9. Financial advisor : Upstage and Gradio
+10. Financial advisor : Upstage and Gradio
 
    📹 [video tutorial](https://x.com/soo_devrel/status/1840893935146893649)
 
@@ -44,7 +44,7 @@
 
    💻 [code](https://github.com/UpstageAI/cookbook/blob/main/Solar-Fullstack-LLM-101/04_CAG_GC.ipynb)
 
-10. Transform complex research papers into captivating podcasts
+11. Transform complex research papers into captivating podcasts
 
    📹 [video tutorial](https://x.com/soo_devrel/status/1859772718985642186)
 
