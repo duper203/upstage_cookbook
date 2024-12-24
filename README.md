@@ -6,7 +6,7 @@
 
    💻 [code](https://github.com/duper203/upstage_cookbook/blob/main/wiki_tutorial_upstage_weaviate.ipynb)
 
-   📹 https://x.com/soo_devrel/status/1831025240488722623
+   📹 [video turial](https://x.com/soo_devrel/status/1831025240488722623)
 
 3. How to use DocParse series #1, #2, #3
 
